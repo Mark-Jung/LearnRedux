@@ -7,8 +7,8 @@
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Mark Jung",
+  "license": "IRC",
   "dependencies": {
     "axios": "^0.9.1",
     "express": "^4.13.4",
